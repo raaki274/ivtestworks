@@ -2,9 +2,9 @@ import java.util.Map;
 import java.util.HashMap;
 import java.lang.Integer;
 
-public class Main {
+public class ChessMove {
   public static void main(String[] args) {
-	String result = new Main().getNewPosition("5h", 11, 25);
+	String result = new ChessMove().getNewPosition("5h", 11, 25);
     System.out.println("Result: "+result);
   }
   
