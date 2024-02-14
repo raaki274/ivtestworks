@@ -1,6 +1,6 @@
 package ivprep;
 
-public class MainProg {
+public class Palindrom {
 
 	public static void main(String[] args) {
 		String caes = "0";
